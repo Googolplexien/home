@@ -1,0 +1,32 @@
+/* styles.css */
+
+body {
+    font-family: archivo-black-2;
+    background-color: #000;
+    color: #100;
+}
+.chapter {
+    font-size: 80px;
+    color: #ffffff;
+}
+.season {
+    font-size: 60px;
+    color: #ffffff;
+}
+.part {
+    font-size: 40px;
+    color: #ffffff;
+}
+.entry {
+    font-size: 20px;
+    color: #ffffff;
+}
+.milestone {
+    font-size: 20px;
+}
+.numberGoal {
+    font-size: 40px;
+}
+.ultimateGoal {
+    font-size: 60px;
+}
