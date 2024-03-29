@@ -5,16 +5,20 @@ body {
     background-color: #000;
     color: #100;
 }
+#bar {
+    background-color: #000000;
+    color: #ffffff;
+}
 .chapter {
-    font-size: 80px;
+    font-size: 160px;
     color: #ffffff;
 }
 .season {
-    font-size: 60px;
+    font-size: 120px;
     color: #ffffff;
 }
 .part {
-    font-size: 40px;
+    font-size: 80px;
     color: #ffffff;
 }
 .entry {
@@ -22,11 +26,11 @@ body {
     color: #ffffff;
 }
 .milestone {
-    font-size: 20px;
-}
-.numberGoal {
     font-size: 40px;
 }
-.ultimateGoal {
+.numberGoal {
     font-size: 60px;
+}
+.ultimateGoal {
+    font-size: 80px;
 }
